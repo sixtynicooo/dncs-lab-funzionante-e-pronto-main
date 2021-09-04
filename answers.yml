@@ -1,0 +1,18 @@
+FirstName: Nicola
+LastName: Bernab�
+MatriculationNumber: 192582
+AcademicYear: 2019-2020
+GitHubUrl: YourGithubRepositoryURL
+Subnets:
+  HostsA:
+    RequiredAddresses: 495
+    SubnetAddress: 11.1.0.2
+    SubnetPrefixLength: 23
+  HostsB:
+    RequiredAddresses: 140
+    SubnetAddress: 12.0.1.2
+    SubnetPrefixLength: 24
+  Hub:
+    RequiredAddresses: 155
+    SubnetAddress: 13.0.1.34
+    SubnetPrefixLength: 24
